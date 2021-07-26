@@ -49,6 +49,7 @@ class _HomeState extends State<Home> {
     realController.text = "";
     dolarController.text = "";
     euroController.text = "";
+    btcController.text = "";
   }
 
   void _realChanged(String text) {
