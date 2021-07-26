@@ -1,0 +1,202 @@
+{
+   "last_audit_state": "Unknown",
+   "last_audit_time": "",
+   "last_audit_time_double": 0.0,
+   "last_successful_sync_time": "26/07/2021 11:10:46 BRT",
+   "last_successful_sync_time_double": 1627308646.583999,
+   "last_sync_time": "26/07/2021 11:10:46 BRT",
+   "last_sync_time_double": 1627308646.583999,
+   "sync_internal_snapshots": [ {
+      "bagOfChips": "CgMxMTM=",
+      "birthday": "ProductionEnvironmentDefinition",
+      "counter_entries": {
+         "App List": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "App settings": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Apps": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Arc Package": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Autofill": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Autofill Profiles": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Autofill Wallet": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Autofill Wallet Metadata": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Autofill Wallet Offer": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Bookmarks": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Collection": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Collections Metadata": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Device Info": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Dictionary": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Encryption Keys": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Extension settings": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Extensions": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "History Delete Directives": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Managed User Settings": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "OS Preferences": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "OS Priority Preferences": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Passwords": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Preferences": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Printers": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Priority Preferences": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Reading List": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Search Engines": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Security Events": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Send Tab To Self": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Sessions": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Sharing Message": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Tabs": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Themes": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Typed URLs": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "User Consents": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "User Events": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Web Apps": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         },
+         "Wifi Configurations": {
+            "numEntries": 0,
+            "numToDeleteEntries": 0
+         }
+      },
+      "cycle_cvs": "",
+      "downloadProgressMarkers": {
+         "Autofill": "XGLvv73vv71cdTAwMDFcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Autofill Profiles": "XGLvv73vv71cdTAwMDNcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Bookmarks": "XGLvv73vv71cdTAwMDJcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Collection": "XGLvv73vv70nXHUwMDEyXGJcdTAwMDdXJ++/vXpcdTAwMDFcdTAwMDBcdTAwMDA=",
+         "Device Info": "XGLvv73vv71cdFx1MDAxMlxiXHUwMDA3Vyfvv716XHUwMDAxXHUwMDAwXHUwMDAw",
+         "Encryption Keys": "XGLvv73vv71cdTAwMDJcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Extension settings": "XGLvv73vv71cdTAwMDVcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Extensions": "XGLvv73vv71cdTAwMDJcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Passwords": "XGLvv73vv71cdTAwMDJcdTAwMTJcYlx1MDAwN1cn77+9elx1MDAwMVx1MDAwMFx1MDAwMA==",
+         "Preferences": "XGLGplx1MDAwMlx1MDAxMlxiXHUwMDA3Vyfvv716XHUwMDAxXHUwMDAwXHUwMDAw",
+         "Send Tab To Self": "XGLvv73vv70kXHUwMDEyXGJcdTAwMDdXJ++/vXpcdTAwMDFcdTAwMDBcdTAwMDA="
+      },
+      "getUpdatesOrigin": "GU_TRIGGER",
+      "hasRemainingLocalChanges": false,
+      "isSilenced": false,
+      "notificationsEnabled": true,
+      "numEncryptionConflicts": 0,
+      "numEntries": 0,
+      "numHierarchyConflicts": 0,
+      "numLocalOverwrites": 0,
+      "numReflectedUpdatesDownloadedTotal": 0,
+      "numServerConflicts": 0,
+      "numServerOverwrites": 0,
+      "numSuccessfulBookmarkCommits": 0,
+      "numSuccessfulCommits": 0,
+      "numTombstoneUpdatesDownloadedTotal": 0,
+      "numUpdatesDownloadedTotal": 0,
+      "poll_finish_time": "31/12/1969 21:00:00 BRT",
+      "poll_finish_time_double": 0.0,
+      "poll_interval": "8 h 0 min",
+      "poll_interval_int": 28800000,
+      "sync_start_time": "26/07/2021 11:10:46 BRT",
+      "sync_start_time_double": 1627308646.581712
+   } ]
+}

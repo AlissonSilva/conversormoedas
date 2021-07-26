@@ -1,0 +1,4 @@
+#Mon Jul 26 12:40:12 BRT 2021
+base.0=C\:\\Users\\asoliveira\\Documents\\GitHub\\conversormoedas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
