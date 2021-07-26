@@ -1,16 +1,15 @@
-# conversormoedas
+# Conversor de Moedas
 
-A new Flutter project.
+Conversor de moedas(Dólar, Real, Euro e Bitcoin).
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+Clone do projeto e executar o comando <b>flutter run</b>
 
-A few resources to get you started if this is your first Flutter project:
+Será gerado o build da aplicação flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Primeira Tela](image/to_readme/img1.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adicionado o valor 1 real.
+
+![Segunda Tela](image/to_readme/img2.jpeg)
